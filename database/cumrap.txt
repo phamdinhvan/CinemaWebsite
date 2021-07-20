@@ -1,0 +1,9 @@
+INSERT INTO "public"."CumRaps" ("id", "TenCum", "DiaChi", "createdAt", "updatedAt") VALUES
+(1, 'Lotte Nam Sài Gòn', 'Tầng 3, Lotte Mart, 469 Nguyễn Hữu Thọ, P. Tân Hưng, Q.7, Tp. Hồ Chí Minh', '2021-07-02 17:03:52.361987+07', '2021-07-02 17:03:52.361987+07'),
+(2, 'Lotte Cộng Hoà', 'Tầng 4, Pico Plaza, 20 Cộng Hòa, P.12, Q. Tân Bình, Tp. Hồ Chí Minh', '2021-07-02 17:03:52.361987+07', '2021-07-02 17:03:52.361987+07'),
+(3, 'Lotte Cantavil', 'Tầng 7, Cantavil Premier, Xa lộ Hà Nội, P. n Phú, Q.2, TP. Hồ Chí Minh', '2021-07-02 17:03:52.361987+07', '2021-07-02 17:03:52.361987+07'),
+(4, 'Lotte Phú Thọ', 'Tầng 4 Lotte Mart Phú Thọ, ngã tư 3/2 và Lê Đại Hành, Q.11, Tp. Hồ Chí Minh', '2021-07-02 17:03:52.361987+07', '2021-07-02 17:03:52.361987+07'),
+(5, 'Lotte Nowzone', 'Tầng 5, TTTM Nowzone, 235 Nguyễn Văn Cừ, P. Nguyễn Cư Trinh, Q.1, Tp. Hồ Chí Minh', '2021-07-02 17:03:52.361987+07', '2021-07-02 17:03:52.361987+07'),
+(6, 'Lotte Gò Vấp', 'Tầng 3, Lotte Mart Gò Vấp, 242 Nguyễn Văn Lượng, Q.Gò Vấp, TP.HCM', '2021-07-02 17:03:52.361987+07', '2021-07-02 17:03:52.361987+07'),
+(7, 'Lotte Thủ Đức', 'Tầng 2, TTTM Joy Citipoint Thủ Đức, KCX Linh Trung 1, QL 1A, Tp. Hồ Chí Minh', '2021-07-02 17:03:52.361987+07', '2021-07-02 17:03:52.361987+07'),
+(8, 'Lotte Ung Văn Khiêm', 'Tầng Trệt, TTTM TTC Plaza, Số 26, Đường Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, TP.HCM', '2021-07-02 17:03:52.361987+07', '2021-07-02 17:03:52.361987+07');
